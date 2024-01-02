@@ -6,18 +6,22 @@
 
 🏆 BA in Human Rights and MA in Gender Studies
 
-⭐ Long career working with human rights issues in Swedish civil society 
+⭐ Long career working with human rights issues
 
 🌍 Based in Malmö, Sweden
 
 
+
   
-🤖 On GitHub you find my different projects.
+  On GitHub you find my different projects.
   Some are made for school, others are made for fun.
 
-🏅 Check out my CV on linkedin: www.linkedin.com/in/nadine-dawod
-  
-⌨ Contact me at nadinekdawod[at]gmail.com
-
-<h3>So far</h3>
+<h3>Know so far</h3>
 HTML, CSS, GitHub, Git, Sass, Bootstrap, JavaScript, Agile methodology, React
+
+<h3>Get in touch</h3>
+
+- Linkedin: www.linkedin.com/in/nadine-dawod
+  
+- E-mail: nadinekdawod[at]gmail.com
+
