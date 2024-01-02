@@ -1,9 +1,23 @@
-### Hi there 👋
+<h1>I'm Nadine Dawod 👋 </h1>
 
-- Student in front end development. Started with HTML and CSS and now learning JavaScript.
--  I’m looking for help with learning different feautures on github as well as everything JavaScript
+💻 Junior front end developer
+
+📚 Currently studying at Sundsgården Folkhögskola
+
+🏆 BA in Human Rights and MA in Gender Studies
+
+⭐ Long career working with human rights issues in Swedish civil society 
+
+🌍 Based in Malmö, Sweden
 
 
-- Have a long career of social projects within Swedish civil society
-- Bachelor degree in Human Rights and masters degree in gender studies
-- Worked with and have skills in areas such as sexual and reproductive health and rights, refugee rights and labour rights
+  
+🤖 On GitHub you find my different projects.
+  Some are made for school, others are made for fun.
+
+🏅 Check out my CV on linkedin: www.linkedin.com/in/nadine-dawod
+  
+⌨ Contact me at nadinekdawod[at]gmail.com
+
+<h3>So far</h3>
+HTML, CSS, GitHub, Git, Sass, Bootstrap, JavaScript, Agile methodology, React
