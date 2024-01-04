@@ -6,9 +6,8 @@
 
 🏆 BA in Human Rights and MA in Gender Studies
 
-⭐ Long career working with human rights issues
+⭐ Long career working with human rights organisations
 
-🌍 Based in Malmö, Sweden
 
 
 
